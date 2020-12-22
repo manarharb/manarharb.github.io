@@ -1,0 +1,115 @@
+body {
+    background-color: powderblue;
+    text-align: center;
+    color: rgb(59, 59, 59);
+}
+h1
+{
+  font-size:300%;
+}
+p.p1 {
+    background-color:#eecbc5;
+    margin: 10px 250px;
+    font-family: courier;
+    font-size: 20px;
+    color:#373737;
+}
+h2.hh {
+    
+    font-size:25px;
+    
+
+}
+p.p2 
+{
+  font-size:25px;
+}
+h2 
+{
+  font-size:25px;
+}
+p.pp{
+    font-size:20px;
+}
+.a1
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size:30px;
+  padding :0  8%;
+
+
+}
+.a2
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size:30px;
+  padding :0  10%;
+}
+.manar {
+    float: left;
+    margin-left: 25%;
+    font-size:20px;
+
+}
+.hr{
+    margin-top: 20%;
+
+}
+.yara {
+    float: left;
+   margin-left: 25%;
+   font-size:20px;
+}
+img{
+    margin: 3% ;
+}
+.line {
+    outline-style:dotted;
+    margin-top:1px;
+    width:600px;
+}
+.hobbies {
+    font-size: 30px;
+}
+.B{
+    position: absolute;;
+    top:2%;
+     right:2%;
+     font-size: 25px;
+     color:rgb(59, 59, 59) ;
+     background-color: #eecbc5;
+     height: 50px;
+  }
+.A{
+    position: absolute;;
+    top:10%;
+     right:2%;
+     font-size: 25px;
+     color:rgb(59, 59, 59) ;
+     background-color: #eecbc5;
+     height: 50px;
+     width: 150px;
+}
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(59, 59, 59);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkred;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: darkred;
+    background-color: transparent;
+    text-decoration: none;
+}

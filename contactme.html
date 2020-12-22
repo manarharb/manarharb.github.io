@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="index.html" rel="import">
+    <link rel='stylesheet' href="style1.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title> Contact </title>
+
+</head>
+<body>
+    <header><h1>Contact Me</h1></header>
+    <div class='footer'>
+        <p>
+            @Copy Right 2020
+        </p>
+
+    </div>
+    <form class="in" name="contact_form" onsubmit=" validate_form(),f1();"  autocomplete="on" >
+
+        <label for=sub class="label1">Subject*</label>
+        <input id='sub' name="FSUB"><br><br>
+        <label for=mail class="label1">Email*</label>
+        <input id='mail' name="FMAIL"><br><br>
+        <label for=ID class="label1">ID*</label>
+        <input id='ID' name="FID"><br><br>
+        <label for=URL class="label1">URL*</label>
+        <input id='URL' name="FURL"><br><br>
+        <div class="d2">
+            <label for=mess class="label1">Message*</label>
+            <textarea id='mess' name="FMESS"></textarea><br><br>
+        </div>
+        <input type="submit" id="subb" onclick="return string()"><br><br>
+
+    </form>
+
+    <script src="jsfile.js"></script>
+
+</body>
+
+
+</html>
